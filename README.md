@@ -4,6 +4,10 @@
 
 This is the first challenge of the course. The objective of this challenge is create a resume using HTML and the basics tags taught during the first class week.
 
+## View
+
+You can check this sweetie piece of `html` [here.](https://pelafustan.github.io/challenge_01/)
+
 ## Author
 
 * [Patricio Parada](https://github.com/pelafustan)
