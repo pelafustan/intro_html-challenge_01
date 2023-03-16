@@ -6,7 +6,7 @@ This is the first challenge of the course. The objective of this challenge is cr
 
 ## View
 
-You can check this sweetie piece of `html` [here.](https://pelafustan.github.io/challenge_01/)
+You can check this sweetie piece of `html` [here.](https://pelafustan.github.io/intro_html-challenge_01/)
 
 ## Author
 
